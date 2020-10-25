@@ -1,3 +1,4 @@
+
 def sol(x):
   string =str(x)
   if string[0]=='-':
